@@ -19,7 +19,7 @@ begin
 	monto:=0;
     dia:=0;
     mayor_ventas:=0;
-	for i:=0 to 3 do
+	for i:=0 to 31 do
 	  begin
 	  	writeln('Dia: ',i);
 		Writeln('ingrese el monto: ');
